@@ -1,0 +1,14 @@
+C:\Users\ilnur\RiderProjects\HhSquareLibrary\HhSquareLibrary\bin\Debug\net8.0\HhSquareLibrary.exe
+C:\Users\ilnur\RiderProjects\HhSquareLibrary\HhSquareLibrary\bin\Debug\net8.0\HhSquareLibrary.deps.json
+C:\Users\ilnur\RiderProjects\HhSquareLibrary\HhSquareLibrary\bin\Debug\net8.0\HhSquareLibrary.runtimeconfig.json
+C:\Users\ilnur\RiderProjects\HhSquareLibrary\HhSquareLibrary\bin\Debug\net8.0\HhSquareLibrary.dll
+C:\Users\ilnur\RiderProjects\HhSquareLibrary\HhSquareLibrary\bin\Debug\net8.0\HhSquareLibrary.pdb
+C:\Users\ilnur\RiderProjects\HhSquareLibrary\HhSquareLibrary\obj\Debug\net8.0\HhSquareLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilnur\RiderProjects\HhSquareLibrary\HhSquareLibrary\obj\Debug\net8.0\HhSquareLibrary.AssemblyInfoInputs.cache
+C:\Users\ilnur\RiderProjects\HhSquareLibrary\HhSquareLibrary\obj\Debug\net8.0\HhSquareLibrary.AssemblyInfo.cs
+C:\Users\ilnur\RiderProjects\HhSquareLibrary\HhSquareLibrary\obj\Debug\net8.0\HhSquareLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ilnur\RiderProjects\HhSquareLibrary\HhSquareLibrary\obj\Debug\net8.0\HhSquareLibrary.dll
+C:\Users\ilnur\RiderProjects\HhSquareLibrary\HhSquareLibrary\obj\Debug\net8.0\refint\HhSquareLibrary.dll
+C:\Users\ilnur\RiderProjects\HhSquareLibrary\HhSquareLibrary\obj\Debug\net8.0\HhSquareLibrary.pdb
+C:\Users\ilnur\RiderProjects\HhSquareLibrary\HhSquareLibrary\obj\Debug\net8.0\HhSquareLibrary.genruntimeconfig.cache
+C:\Users\ilnur\RiderProjects\HhSquareLibrary\HhSquareLibrary\obj\Debug\net8.0\ref\HhSquareLibrary.dll
